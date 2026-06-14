@@ -29,7 +29,7 @@ GREEN='\033[1;32m' # Light Green.
 ###################################################################################################################################################################################################
 
 WHIPTAIL_TITLE="Project N.O.M.A.D Installation"
-NOMAD_DIR="/opt/project-nomad"
+NOMAD_DIR="/media/anirban/NOMAD1/nomad_data"
 MANAGEMENT_COMPOSE_FILE_URL="https://raw.githubusercontent.com/Crosstalk-Solutions/project-nomad/refs/heads/main/install/management_compose.yaml"
 START_SCRIPT_URL="https://raw.githubusercontent.com/Crosstalk-Solutions/project-nomad/refs/heads/main/install/start_nomad.sh"
 STOP_SCRIPT_URL="https://raw.githubusercontent.com/Crosstalk-Solutions/project-nomad/refs/heads/main/install/stop_nomad.sh"
